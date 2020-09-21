@@ -66,7 +66,7 @@
                         <serverId>Azure-auth</serverId>
                     </authentication>
                     <resourceGroup>maven-plugin</resourceGroup>
-                    <appName>maven-web-app-${maven.build.timestamp}</appName>
+                    <appName>mavenwebapp${maven.build.timestamp}</appName>
                     <region>westus</region>
                     <javaVersion>1.8</javaVersion>
                     <deploymentType>ftp</deploymentType>
