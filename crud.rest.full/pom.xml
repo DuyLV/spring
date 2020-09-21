@@ -93,7 +93,7 @@
         <configuration>
           <schemaVersion>V2</schemaVersion>
           <resourceGroup>crud.rest.full-1600706458989-rg</resourceGroup>
-          <appName>crud.rest.full-1600706458989</appName>
+          <appName>crudrestfull</appName>
           <pricingTier>P1v2</pricingTier>
           <region>westeurope</region>
           <runtime>
